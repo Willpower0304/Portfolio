@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Password Generator",
+        "imageSrc": "projects/Password.webp",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["Html", "Css", "JavaScript"],
+        "demo": "https://random-generator-pass.netlify.app/",
+        "source": "https://github.com/Willpower0304/Random-Password-Generator"
+    },
+    {
+        "title": "Pandeporte Redesign Web",
+        "imageSrc": "projects/Pandeporte.webp",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["Html", "Css", "JavaScript"],
+        "demo": "https://pandeporte-web-example.netlify.app/",
+        "source": "https://github.com/Willpower0304/Pandeportes-web"
+    },
+    {
+        "title": "Nike Web Example",
+        "imageSrc": "projects/Nike.webp",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["NodeJS", "React", "Tailwind"],
+        "demo": "https://nike-example.netlify.app/",
+        "source": "https://github.com/Willpower0304/Nike-Web-Example"
+    }
+]
