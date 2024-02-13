@@ -127,4 +127,23 @@
     .content {
         align-items: center;
     }
+
+    .title {
+        font-size: 62px;
+        text-align: center;
+        font-weight: 900;
+        margin-top: 33px;
+        margin-bottom: 33px;
+    }
+    
+    .Name {
+        font-size: 62px;
+        font-weight: 900;
+        margin-bottom: 33px;
+    }
+
+    .description {
+        font-size: 29px;
+        text-align: center;
+    }
 }

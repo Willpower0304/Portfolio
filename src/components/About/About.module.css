@@ -93,4 +93,10 @@ p {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .title {
+        font-size: 35px;
+        text-align: center;
+        font-weight: 700;
+    }
 }

@@ -33,7 +33,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3>Desarrollador Back-End</h3>
                             <p>
-                                Soy un desarrollador backend junior entusiasta en construir soluciones sólidas.
+                                Entusiasta en construir soluciones sólidas.
                                 Utilizo tecnologías como SQL y PHP. 
                             </p>
                         </div>
@@ -45,8 +45,8 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3>Diseñador de UI´s</h3>
                             <p>
-                                Mi enfoque se centra en la creación de experiencias visuales 
-                                cautivadoras y funcionales.
+                                Mi enfoque se centra en la creación de experiencias simples 
+                                y funcionales para cualquier dispositivo.
                             </p>
                         </div>
                     </li>

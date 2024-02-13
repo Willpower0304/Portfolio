@@ -9,8 +9,8 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hola soy <span className={styles.Name}>William!</span></h1>
             <p className={styles.description}>
-                Soy un ingeniero en Desarrollo de Software, 
-                listo para aprender cualquier lenguaje o tecnologia. contactame si quieres saber mas sobre mi.
+                Soy un Estudiante Universitario en Ingenieria en Desarrollo de Software, 
+                listo para aprender cualquier lenguaje o tecnologia. Contactame si quieres contratar mis servicios.
             </p>
             <a href="mailto:espinozaw657@gmail.com" className={styles.contactBtn}>
                 Contactame

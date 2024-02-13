@@ -24,3 +24,13 @@
     gap: 15px;
     width: 100%;
 }
+
+@media screen and (max-width: 830px) {
+
+    .title {
+        font-size: 35px;
+        text-align: center;
+        font-weight: 700;
+    }
+
+}

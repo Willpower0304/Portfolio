@@ -12,8 +12,8 @@
     "imageSrc": "skills/js.png"
   },
   {
-    "title": "Git",
-    "imageSrc": "skills/git.png"
+    "title": "Nodejs",
+    "imageSrc": "skills/nodejs.png"
   },
   {
     "title": "React",
@@ -26,5 +26,13 @@
   {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   }
 ]

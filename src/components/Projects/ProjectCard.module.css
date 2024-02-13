@@ -62,3 +62,36 @@
     background: var(--color-primary);
     padding: 1px 22px;
 }
+
+@media screen and (max-width: 830px) {
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+        background: linear-gradient(
+            180deg,
+            #5a5a5a 0%,
+            #292929 100%);
+        box-shadow: 0 16px 14px 0 #131212;
+        padding: 18px 24px;
+        max-width: 280px;
+    }
+
+    .links {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .link {
+        font-size: 24px;
+        padding: 1px 20px;
+    }
+
+    .description {
+        margin-top: 6px;
+        font-size: 23px;
+        font-weight: 400;
+    }
+
+}
