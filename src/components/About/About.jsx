@@ -46,7 +46,8 @@ export const About = () => {
                             <h3>Diseñador de UI´s</h3>
                             <p>
                                 Mi enfoque se centra en la creación de experiencias simples 
-                                y funcionales para cualquier dispositivo.
+                                y funcionales para cualquier dispositivo, tambien estoy 
+                                la creación de logos.
                             </p>
                         </div>
                     </li>
