@@ -1,78 +1,79 @@
 @import "../../vars.css";
 
 .container {
-    color: var(--color-text);
-    margin-top: 79px;
-    margin-left: 10%;
-    margin-right: 10%;
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .title {
-    color: var(--color-text);
-    font-size: 35px;
-    font-weight: 700;
-    letter-spacing: 1.75px;
-    text-transform: uppercase;
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
 }
 
 .content {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 14px;
 }
 
 .skills {
-    width: 45%;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 37px;
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 37px;
 }
 
 .skill {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11px;
 }
 
 .skillImageContainer {
-    background-color:rgb(70, 69, 69);
-    border-radius: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 120px;
-    height: 120px;
+  background-color: rgb(70, 69, 69);
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
 }
 
 .skillImageContainer img {
-    width: 75px;
+  width: 75px;
 }
 
 .skill p {
-    font-size: 25px;
-    font-family: var(--font-roboto);
-    font-weight: 500;
+  font-size: 25px;
+  font-family: var(--font-roboto);
+  font-weight: 500;
 }
 
 @media screen and (max-width: 830px) {
-    .content {
-        flex-direction: column;
-        align-items: center;
-        gap: 34px;
-    }
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 34px;
+  }
 
-    .skills {
-        width: 100%;
-        flex-direction: row;
-        justify-content: center;
-    }
+  .skills {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+  }
 
-    .title {
-        font-size: 35px;
-        text-align: center;
-        margin-bottom: 50px;
-        font-weight: 700;
-    }
+  .title {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+  }
 }
