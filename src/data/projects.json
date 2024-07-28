@@ -1,26 +1,34 @@
 [
-    {
-        "title": "Password Generator",
-        "imageSrc": "projects/Password.webp",
-        "description": "Este es un proyecto realizado para generar contraseñas aleatorias.",
-        "skills": ["Html", "Css", "JavaScript"],
-        "demo": "https://random-generator-pass.netlify.app/",
-        "source": "https://github.com/Willpower0304/Random-Password-Generator"
-    },
-    {
-        "title": "Pandeporte Redesign Web",
-        "imageSrc": "projects/Pandeporte.webp",
-        "description": "Rediseño del sitio web de Pandeporte (Instituto Panameño del Deporte).",
-        "skills": ["Html", "Css", "JavaScript"],
-        "demo": "https://pandeporte-web-example.netlify.app/",
-        "source": "https://github.com/Willpower0304/Pandeportes-web"
-    },
-    {
-        "title": "Nike Web Example",
-        "imageSrc": "projects/Nike.webp",
-        "description": "Ejemplo de sitio web de una tienda de zapatos Nike.",
-        "skills": ["NodeJS", "React", "Tailwind"],
-        "demo": "https://nike-example.netlify.app/",
-        "source": "https://github.com/Willpower0304/Nike-Web-Example"
-    }
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/Password.webp",
+    "description": "Este es un proyecto realizado para generar contraseñas aleatorias.",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://random-generator-pass.netlify.app/",
+    "source": "https://github.com/Willpower0304/Random-Password-Generator"
+  },
+  {
+    "title": "Pandeporte Redesign Web",
+    "imageSrc": "projects/Pandeporte.webp",
+    "description": "Rediseño del sitio web de Pandeporte (Instituto Panameño del Deporte).",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://pandeporte-web-example.netlify.app/",
+    "source": "https://github.com/Willpower0304/Pandeportes-web"
+  },
+  {
+    "title": "Nike Web Example",
+    "imageSrc": "projects/Nike.webp",
+    "description": "Ejemplo de sitio web de una tienda de zapatos Nike.",
+    "skills": ["NodeJS", "React", "Tailwind"],
+    "demo": "https://nike-example.netlify.app/",
+    "source": "https://github.com/Willpower0304/Nike-Web-Example"
+  },
+  {
+    "title": "Minimalistic react website",
+    "imageSrc": "projects/Minimalistic.webp",
+    "description": "Sitio web Minimalista hecho en React",
+    "skills": ["html", "Css", "React"],
+    "demo": "https://minimalistic-website.netlify.app/",
+    "source": "https://github.com/Willpower0304/minimalistic-react-website"
+  }
 ]
