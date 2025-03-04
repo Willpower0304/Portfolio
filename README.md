@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is my Portfolio where you gonna now my type of experiences and project I gonna  create and for the future. 
+This is my Portfolio where you gonna now my type of experiences and project I gonna  create and for the future.
 
 <br>
 
